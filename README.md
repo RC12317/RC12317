@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! 👋
+#### I'm Rosa
+####
+👋 About Me
 
-<!--
-**RC12317/RC12317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently focused on learning and transitioning into the field of Cybersecurity. My goal is to build a strong technical foundation while developing practical skills that align with real-world security operations and defensive strategies.
 
-Here are some ideas to get you started:
+🚀 Current Learning Path
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Learning SQL to strengthen my understanding of databases and data analysis
+
+🐍 Then, progress into Python to build automation, scripting, and security-related tools
+
+🎓 Certifications - https://www.credly.com/users/rosa-chen-kon
+
+These certifications reflect my commitment to continuous learning and professional development in the technology and security space.
